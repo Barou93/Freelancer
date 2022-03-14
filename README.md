@@ -4,7 +4,7 @@ Plateforme de Freelance Demo version MVP.
 
 👤 &nbsp; **Oumar MAURET** [🇫🇷 Contactez moi 🇬🇧](oumarmauret@gmail.com)
 
--   Github: [@barou93](https://github.com/Barou93l)
+-   Github: [@barou93](https://github.com/Barou93)
 -   LinkedIn: [@Oumar MAURET](https://www.linkedin.com/in/oumar-mauret-257489bb/)
 
 #### Contenus de ce repository
@@ -56,7 +56,7 @@ Si les packages sont déja installés, ces commandes suffisent à démarrer les 
 
 ### 🚦 &nbsp; Les documents de présentation et livrables
 
-→ [Le lien vers le dépôt Git public contenant le code de l’API.](https://github.com/Barou93/OumarMAURET_6_18122021)
+→ [Le lien vers le dépôt Git public contenant le code de l’API.](https://github.com/Barou93/Freelancer)
 
 ---
 
