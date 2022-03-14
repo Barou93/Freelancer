@@ -22,7 +22,7 @@ Plateforme de Freelance Demo version MVP.
 
 -   Ouvrir le terminal sur ce dossier et exécuter `npm install` pour installer les dépendances.
 -   Le projet a été créer avec React Js version 17
--   Démarrer ng serve (ou `npm start`) pour avoir accès au serveur de développement.
+-   Démarrer (ou `npm start`) pour avoir accès au serveur de développement.
 -   Rendez-vous sur `http://localhost:3000`.
 -   L'application va se recharger automatiquement si vous modifiez un fichier source.
 
@@ -41,7 +41,7 @@ Si les packages sont déja installés, ces commandes suffisent à démarrer les 
 
 ##### 🖥 &nbsp; Connexion
 
--   Ouvrir [localhost:8000](http://localhost:8000/) dans votre navigateur.
+-   Ouvrir [localhost:3000](http://localhost:3000/) dans votre navigateur.
 
 ---
 
