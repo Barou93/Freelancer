@@ -1,70 +1,73 @@
-# Getting Started with Create React App
+Plateforme de Freelance Demo version MVP.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Auteur
 
-## Available Scripts
+👤 &nbsp; **Oumar MAURET** [🇫🇷 Contactez moi 🇬🇧](oumarmauret@gmail.com)
 
-In the project directory, you can run:
+-   Github: [@barou93](https://github.com/Barou93l)
+-   LinkedIn: [@Oumar MAURET](https://www.linkedin.com/in/oumar-mauret-257489bb/)
 
-### `yarn start`
+#### Contenus de ce repository
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+-   Ce repo contient les deux dossiers `Frontend` et `Backend`.
+    Vous pouvez cloner ce repository pour récupérer en local les deux parties Front et Back de l'application.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `yarn test`
+### 🔨 &nbsp; Installation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+-   Cloner ce projet depuis GitHub.
 
-### `yarn build`
+#### 💡 &nbsp; Faire tourner le Frontend
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+-   Ouvrir le terminal sur ce dossier et exécuter `npm install` pour installer les dépendances.
+-   Le projet a été créer avec React Js version 17
+-   Démarrer ng serve (ou `npm start`) pour avoir accès au serveur de développement.
+-   Rendez-vous sur `http://localhost:3000`.
+-   L'application va se recharger automatiquement si vous modifiez un fichier source.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#### 💡 &nbsp; Faire tourner le Backend
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+-   Ouvrir le terminal sur ce dossier.
+-   Puis lancez le serveur: `npm start`.
 
-### `yarn eject`
+#### Pour faire court
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Si les packages sont déja installés, ces commandes suffisent à démarrer les serveurs.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+-   `npm start` via le terminal sur le frontend
+-   `npm start` via le terminal sur le Backend
+-   Se connecter à l'url : `http://localhost:3000`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+##### 🖥 &nbsp; Connexion
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+-   Ouvrir [localhost:8000](http://localhost:8000/) dans votre navigateur.
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+#### 📦 &nbsp; Utilisé dans ce projet
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+|       Technologies       |     et outils      |
+| :----------------------: | :----------------: |
+|    Framework: ReactJs    | Visual Studio Code |
+|     Serveur: NodeJS      |     Git/GitHub     |
+| Base de données: MongoDB |        xxx         |
+|        Javascript        |        xXx         |
 
-### Code Splitting
+### 🚦 &nbsp; Les documents de présentation et livrables
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+→ [Le lien vers le dépôt Git public contenant le code de l’API.](https://github.com/Barou93/OumarMAURET_6_18122021)
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### 📝 &nbsp; License
 
-### Making a Progressive Web App
+Copyright © 2022 [Oumar MAURET](https://github.com/Barou93).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Ce projet est sous licence [MIT](/backend/LICENCE).
 
-### Advanced Configuration
+[git project]: ---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Donnez une ⭐️ &nbsp; si ce projet vous a plu !
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p>&hearts; Love Markdown<p>
