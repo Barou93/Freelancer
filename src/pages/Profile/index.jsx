@@ -94,14 +94,13 @@ function Profile() {
       fetch(`http://localhost:8000/freelance?id=${queryId}`)
          .then((response) => response.json())
          .then((jsonResponse) => {
-            setProfileData(jsonResponse?.freelaneData);
+            setProfileData(jsonResponse?.freelanceData);
          });
    }, [queryId]);
 
    const { picture, name, location, tjm, job, skills, available, id } =
       profileData;
-
-   //console.log(profileData);
+   console.log(profileData);
 
    return (
       <ThemeContext.Consumer>
